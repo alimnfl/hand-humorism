@@ -1,4 +1,4 @@
-# Hand Gesture Detector ✨
+# Hand Humorism ✨
 
 A lightweight real-time hand gesture recognition project using MediaPipe Hands from Google.
 
